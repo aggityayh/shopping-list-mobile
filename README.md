@@ -15,5 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+[![Build status](https://build.appcenter.ms/v0.1/apps/62ed380e-e419-4f5a-98cc-e965ae378af0/branches/main/badge)](https://appcenter.ms)
 
 Tautan Publik: install.appcenter.ms/orgs/shopping-list-aggityayh/apps/shopping-list/distribution_groups/public
